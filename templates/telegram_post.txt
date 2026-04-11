@@ -1,5 +1,5 @@
-#LunaOS #ROM #OFFICIAL #A16 #Baklava #YourVendor #YoyrDevice
-LunaOS 1.0 | OFFICIAL | Android 16 QPR0
+#LunaOS #ROM #OFFICIAL #A16 #Baklava #YourVendor #YourDevice
+**LunaOS 1.0 | OFFICIAL | Android 16 QPR0**
 **Updated:** 07/04/26
 
 ▪️Download
@@ -13,6 +13,6 @@ LunaOS 1.0 | OFFICIAL | Android 16 QPR0
 **Notes:**
 • Your notes
 
-By @YourName
-Follow @LunaOSupdates
-Join @LunaOSchat
+**By** @YourName
+**Follow** @LunaOSupdates
+**Join** @LunaOSchat
