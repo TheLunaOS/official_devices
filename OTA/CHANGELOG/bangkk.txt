@@ -1,0 +1,5 @@
+LunaOS v1.0
+Build Date : 01/05/2026 (DD/MM/YYYY)
+Maintainer: Doxy
+- Initial LunaOS ROM
+
